@@ -1,1 +1,1 @@
-# Pytest
+This series project is made for explore pytest
